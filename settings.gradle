@@ -1,0 +1,8 @@
+include ':lab5_task3'
+include ':lab5_task2'
+include ':lab5_task1'
+include ':Lab4 (ViewPager)'
+include ':Lab3_4 (ContactList)'
+include ':Lab2 (Activities)'
+include ':Lab1 (Calculator)'
+rootProject.name = "Android Labs"
